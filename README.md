@@ -1,2 +1,2 @@
 # Data-Structure-1
-Implementatio Of Multidimensional Array.
+Implementation Of Multidimensional Array.
